@@ -1,20 +1,10 @@
-# ElixirPlug
+# Elixir Plug Example
 
-**TODO: Add description**
+This is an example of a simplest possible web server implemented using [plug](https://github.com/elixir-lang/plug) directly.
 
-## Installation
+To get started.
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
-
-  1. Add elixir_plug to your list of dependencies in `mix.exs`:
-
-        def deps do
-          [{:elixir_plug, "~> 0.0.1"}]
-        end
-
-  2. Ensure elixir_plug is started before your application:
-
-        def application do
-          [applications: [:elixir_plug]]
-        end
-
+1. Clone the repo
+1. Install dependencies `mix deps.get`
+1. Start the console `iex -S mix`
+1. Open your browser to http://localhost:4000
