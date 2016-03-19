@@ -1,0 +1,2 @@
+defmodule ElixirPlug do
+end
